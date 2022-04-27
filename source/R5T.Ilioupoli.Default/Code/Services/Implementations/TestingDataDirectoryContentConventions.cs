@@ -1,9 +1,9 @@
-﻿using System;
+using System;using R5T.T0064;
 
 
 namespace R5T.Ilioupoli.Default
-{
-    public class TestingDataDirectoryContentConventions : ITestingDataDirectoryContentConventions
+{[ServiceImplementationMarker]
+    public class TestingDataDirectoryContentConventions : ITestingDataDirectoryContentConventions,IServiceImplementation
     {
         public const string BasicTextFileNameValue = "Basic Text File.txt";
 

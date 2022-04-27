@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Dependencies", "_Dependenc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Ilioupoli.Base", "..\..\R5T.Ilioupoli.Base\source\R5T.Ilioupoli.Base\R5T.Ilioupoli.Base.csproj", "{5CEE8DB4-3BBB-440B-85F0-6113F4FFDB92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.T0064", "..\..\R5T.T0064\source\R5T.T0064\R5T.T0064.csproj", "{4676AF3D-5A6A-41DC-BEC5-9E8A834EE340}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,12 +73,25 @@ Global
 		{5CEE8DB4-3BBB-440B-85F0-6113F4FFDB92}.Release|x64.Build.0 = Release|Any CPU
 		{5CEE8DB4-3BBB-440B-85F0-6113F4FFDB92}.Release|x86.ActiveCfg = Release|Any CPU
 		{5CEE8DB4-3BBB-440B-85F0-6113F4FFDB92}.Release|x86.Build.0 = Release|Any CPU
+		{4676AF3D-5A6A-41DC-BEC5-9E8A834EE340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4676AF3D-5A6A-41DC-BEC5-9E8A834EE340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4676AF3D-5A6A-41DC-BEC5-9E8A834EE340}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4676AF3D-5A6A-41DC-BEC5-9E8A834EE340}.Debug|x64.Build.0 = Debug|Any CPU
+		{4676AF3D-5A6A-41DC-BEC5-9E8A834EE340}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4676AF3D-5A6A-41DC-BEC5-9E8A834EE340}.Debug|x86.Build.0 = Debug|Any CPU
+		{4676AF3D-5A6A-41DC-BEC5-9E8A834EE340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4676AF3D-5A6A-41DC-BEC5-9E8A834EE340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4676AF3D-5A6A-41DC-BEC5-9E8A834EE340}.Release|x64.ActiveCfg = Release|Any CPU
+		{4676AF3D-5A6A-41DC-BEC5-9E8A834EE340}.Release|x64.Build.0 = Release|Any CPU
+		{4676AF3D-5A6A-41DC-BEC5-9E8A834EE340}.Release|x86.ActiveCfg = Release|Any CPU
+		{4676AF3D-5A6A-41DC-BEC5-9E8A834EE340}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5CEE8DB4-3BBB-440B-85F0-6113F4FFDB92} = {B8864CC4-BFBD-4082-A33A-F42D4D909DE4}
+		{4676AF3D-5A6A-41DC-BEC5-9E8A834EE340} = {B8864CC4-BFBD-4082-A33A-F42D4D909DE4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F67D397-989B-4015-8B5C-F059220F5666}
