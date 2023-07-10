@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
     <ProjectReference Include="..\R5T.Ilioupoli.Default\R5T.Ilioupoli.Default.csproj" />
   </ItemGroup>
